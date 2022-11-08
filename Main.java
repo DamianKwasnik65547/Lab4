@@ -2,13 +2,14 @@ package WSIZ.KLASY;
 
 public class Main {
     public static void  main(String[]args){
-Prostokat p1=new Prostokat(12,2);
-p1.pole();
+//Prostokat p1=new Prostokat(12,2);
+//p1.pole();
      //   System.out.println(p1);
 //Prostokat p2=new Prostokat(2,4);
-p1.obj();
-p1.przk();
-
+//p1.obj();
+//p1.przk();
+Budynek b1 =new Budynek("Blok", 1992,10);
+        b1.wysw();
 
     }
 
